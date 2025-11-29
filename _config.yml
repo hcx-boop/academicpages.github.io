@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : 兔子.png
+  name             : 郝晨曦
+  pronouns         : she/her
+  bio              :我是郝晨曦，目前是江西理工大学信息工程学院信息安全专业的学生，我很喜欢爬山，滑雪
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
