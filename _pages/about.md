@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+关于我  
+郝晨曦 
+研究方向：信息安全 
+邮箱：2226039704@qq.com  
+单位：江西理工大学信息工程学院  
+
+这是我的个人学术主页，基于[Academic Pages模板]([https://github.com/academicpages/academicpages.github.io])搭建并托管于GitHub Pages。网站内容涵盖我的研究成果、发表论文、教学经历等，如需进一步交流，可通过邮箱联系！  
+
+本模板复刻自Michael Rose开发的[Minimal Mistakes Jekyll主题](https://mmistakes.github.io/minimal-mistakes/)，适配学术展示需求，支持动态生成简历、作品集等功能。
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
